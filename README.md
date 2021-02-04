@@ -9,7 +9,7 @@
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> 
 
 ## Glance of Application
-<img src="https://imgur.com/gWQRy1M.gif" width="1000" height="700" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="04UOyAF"><a href="https://imgur.com/04UOyAF">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## How to run
 ```
